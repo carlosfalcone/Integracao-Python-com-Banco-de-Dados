@@ -1,0 +1,13 @@
+Saldo    - Data e hora: 10/01/2023 11:01:07,  Valor: R$0.00
+Deposito - Data e hora: 10/01/2023 11:01:42,  Valor: +R$1000.00,  Saldo: R$1000.00
+Saque    - Data e hora: 10/01/2023 11:01:53,  Valor: -R$500.00,  Saldo: R$500.00
+Deposito - Data e hora: 10/01/2023 11:18:20,  Valor: +R$1000.00,  Saldo: R$1500.00
+Deposito - Data e hora: 10/01/2023 11:18:25,  Valor: +R$200.00,  Saldo: R$1700.00
+Deposito - Data e hora: 10/01/2023 11:18:27,  Valor: +R$300.00,  Saldo: R$2000.00
+Deposito - Data e hora: 10/01/2023 11:18:29,  Valor: +R$400.00,  Saldo: R$2400.00
+Deposito - Data e hora: 10/01/2023 11:18:31,  Valor: +R$500.00,  Saldo: R$2900.00
+Deposito - Data e hora: 10/01/2023 11:18:33,  Valor: +R$600.00,  Saldo: R$3500.00
+Deposito - Data e hora: 16/01/2023 11:23:23,  Valor: +R$500.00,  Saldo: R$4000.00
+Saque    - Data e hora: 16/01/2023 11:23:38,  Valor: -R$100.00,  Saldo: R$3900.00
+Saque    - Data e hora: 16/01/2023 11:24:00,  Valor: -R$200.00,  Saldo: R$3700.00
+Saque    - Data e hora: 16/01/2023 11:24:04,  Valor: -R$50.00,  Saldo: R$3650.00

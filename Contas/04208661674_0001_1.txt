@@ -1,0 +1,7 @@
+Saldo    - Data e hora: 10/01/2023 10:58:19,  Valor: R$0.00
+Deposito - Data e hora: 10/01/2023 10:58:39,  Valor: +R$400.00,  Saldo: R$400.00
+Saque    - Data e hora: 10/01/2023 11:00:50,  Valor: -R$100.00,  Saldo: R$300.00
+Saque    - Data e hora: 10/01/2023 11:00:54,  Valor: -R$100.00,  Saldo: R$200.00
+Saque    - Data e hora: 10/01/2023 11:00:58,  Valor: -R$100.00,  Saldo: R$100.00
+Deposito - Data e hora: 10/01/2023 11:01:18,  Valor: +R$400.00,  Saldo: R$500.00
+Deposito - Data e hora: 10/01/2023 11:17:06,  Valor: +R$300.00,  Saldo: R$800.00
