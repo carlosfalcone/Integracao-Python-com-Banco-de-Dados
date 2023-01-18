@@ -15,7 +15,7 @@ class Saldo:
 
 class BancoDeDados():
     
-    client = pymongo.MongoClient("mongodb+srv://carlosfalcone:1234@cluster0.tjdbym4.mongodb.net/?retryWrites=true&w=majority", server_api=ServerApi('1'))
+    client = pymongo.MongoClient("mongodb+srv://carlosfalcone:senha@cluster0.tjdbym4.mongodb.net/?retryWrites=true&w=majority", server_api=ServerApi('1'))
     db = client.test
 
     dados_bancarios = db.dados_bancarios
